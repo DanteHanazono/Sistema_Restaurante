@@ -1,0 +1,9 @@
+C:\Users\the_p_000\source\repos\Sistema_Venta_Restaurante\bin\Debug\Sistema_Venta_Restaurante.exe
+C:\Users\the_p_000\source\repos\Sistema_Venta_Restaurante\bin\Debug\Sistema_Venta_Restaurante.pdb
+C:\Users\the_p_000\source\repos\Sistema_Venta_Restaurante\obj\Debug\Sistema_Venta_Restaurante.csprojAssemblyReference.cache
+C:\Users\the_p_000\source\repos\Sistema_Venta_Restaurante\obj\Debug\Sistema_Venta_Restaurante.CONEXION.CONEXION_MANUAL.resources
+C:\Users\the_p_000\source\repos\Sistema_Venta_Restaurante\obj\Debug\Sistema_Venta_Restaurante.Properties.Resources.resources
+C:\Users\the_p_000\source\repos\Sistema_Venta_Restaurante\obj\Debug\Sistema_Venta_Restaurante.csproj.GenerateResource.cache
+C:\Users\the_p_000\source\repos\Sistema_Venta_Restaurante\obj\Debug\Sistema_Venta_Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\the_p_000\source\repos\Sistema_Venta_Restaurante\obj\Debug\Sistema_Venta_Restaurante.exe
+C:\Users\the_p_000\source\repos\Sistema_Venta_Restaurante\obj\Debug\Sistema_Venta_Restaurante.pdb
